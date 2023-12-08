@@ -1,0 +1,25 @@
+html
+  head
+    title GBA
+    style 
+        include ../static/1.css
+    block style
+
+      
+  body
+    nav#nav 
+        ul#list 
+            div#head
+                //- img(src="../static/icon.png", alt="icon" , class="icon")
+                a(href="/" ) 
+                    img(src="../static/icon.png", alt="icon" , class="icon")  
+                a(href="/" )
+                    p GBA
+         
+            li #[a(href="/" ) Home]  
+            li #[a(href="/Membership" ) Membership] 
+            li #[a(href="/Members" ) Members] 
+            li #[a(href="/Register" ) Register]             
+    block content
+    footer#foot
+        | Copyrights © 2023 GarvanshBadmintonAcademy.com | All Rights Reserved .      

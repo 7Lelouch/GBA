@@ -1,0 +1,26 @@
+#ppl{
+    /* background: center / cover no-repeat url(../static/img4.jpg); */
+    background-color: #81bef3;
+    /* height: 34.95rem; */}
+#ppl h3{
+    text-align: center;
+    font-size: 1.8rem;
+}
+.ppl{
+    display: inline-block;
+    margin: 2rem;
+    margin-left: 9rem;
+}
+.ppl img{
+    width:15rem;
+    height: 15rem;
+}
+.ppl h4{
+    text-align: center;
+}
+.pppl{
+    text-align: center;
+}
+.pppl img{
+    width: 15rem;
+}

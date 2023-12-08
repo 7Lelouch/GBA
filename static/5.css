@@ -1,0 +1,36 @@
+#bro{
+    background-color: #81bef3;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+}
+#bro h1{
+    text-align: center;
+    padding-top:3.3rem;
+    padding-bottom: 1.3rem;
+}
+#bro2{
+    display: flex;
+    flex-direction: column;
+    width: 20rem;
+    text-align: center;
+    justify-content: center;
+    
+    padding: 2rem;
+    width: 27rem;
+}
+.my{
+    margin: .5rem;
+}
+#go{
+    margin: 1rem;
+}
+#but{
+    margin: 0.2rem;
+}
+#but:hover{
+    cursor: pointer;
+    
+}

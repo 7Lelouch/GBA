@@ -1,0 +1,22 @@
+#mem{
+    /* background: center / cover no-repeat url(../static/img4.jpg); */
+    background-color: #81bef3;
+    /* height: 34.95rem; */
+}
+#mem h3{
+    text-align: center;
+    font-size: 1.8rem;
+} 
+.pos{
+    background-color: #398ba9;
+    display: inline-block;
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 32rem;
+    margin: 2rem 5rem;
+    padding: 1rem 5rem;
+    height: auto;
+    font-size: 1.2rem;
+}
+.pos h4 {
+    text-align: center;}

@@ -1,0 +1,15 @@
+{
+  "name": "gba",
+  "version": "1.0.0",
+  "description": "best website for badminton",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Garvansh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "pug": "^3.0.2"
+  }
+}

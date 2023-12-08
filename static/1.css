@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+@import url(https://fonts.google.com/specimen/Montserrat);
+/* @import url(https://fonts.google.com/specimen/Roboto); */
+
+#list{
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+    background-color: rgb(105 118 231);
+    opacity: 0.95;
+}
+#list li{
+    list-style: none;
+    margin: 3px 3px;
+}
+#list li a{
+    font-size: 1.4rem;
+    padding: 2px;
+    padding-left: 70px;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-family: 'Montserrat','Courier New', Courier, monospace;
+    font-weight: bold
+    
+    
+    
+}
+#head{
+    display: flex;
+    
+    align-items: center;
+    padding: 5px;
+    padding-left: 25px;
+
+}
+#head a {
+    font-weight: bold;
+    font-size: 1.4rem;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-family: 'Montserrat','Courier New', Courier, monospace;
+}
+
+#head img{
+
+    width: 3rem;
+    
+    background-color: rgb(105 118 231);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#foot{
+    background-color: black;
+    color: white;
+    text-align: center;
+    /* height: .8rem; */
+    font-size: .8rem;
+}
